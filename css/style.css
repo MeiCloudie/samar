@@ -1,0 +1,13 @@
+/* reset css */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Oswald", sans-serif;
+}
+
+/* global css */
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
