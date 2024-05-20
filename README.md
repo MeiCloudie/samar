@@ -8,7 +8,7 @@ _(Lớp BootCamp Sáng 12 - Năm 2024 - Khoá Front-End)_
 	</picture>
 </div>
 
-## [Buổi 6] BÀI TẬP HTML5 VÀ CSS3 - Samar
+## [Buổi 6] BÀI TẬP HTML5 VÀ CSS3 - [Samar](https://cybersamar-v2.vercel.app/)
 
 # Mục tiêu
 
