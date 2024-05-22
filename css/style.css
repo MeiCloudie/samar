@@ -614,6 +614,88 @@ header .btn-quote-gradient:hover {
   grid-row: 2 / 4;
 }
 
+/* blog */
+.blog {
+  background-image: url(../img/bg16.png);
+  background-size: cover;
+  background-position: top center;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.blog_content {
+  margin-top: 20px;
+}
+
+.blog_item {
+  text-align: left;
+  background: rgba(245, 95, 141, 0.1);
+  border-radius: 10px;
+}
+
+.blog_header {
+  position: relative;
+}
+
+.blog_header img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.blog_header p {
+  font-size: 14px;
+  color: white;
+  background-image: linear-gradient(
+    to right,
+    #f55f8d 0,
+    #f8ae56 51%,
+    #f55f8d 100%
+  );
+  background-size: 200%;
+  border-radius: 6px;
+  position: absolute;
+  padding: 10px 20px;
+  bottom: -20px;
+  left: 15px;
+}
+
+.blog_body {
+  padding: 30px 15px 20px 15px;
+  line-height: 1.4;
+  margin-bottom: 20px;
+}
+
+.blog_body h3 {
+  color: #262626;
+  font-size: 25px;
+  font-weight: 700;
+  margin-bottom: 5px;
+}
+
+.blog_footer {
+  display: flex;
+  align-items: center;
+  text-transform: uppercase;
+  padding: 15px;
+  font-weight: 400;
+  font-size: 15px;
+  border-top: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.blog_footer i {
+  font-size: 24px;
+  color: #f55f8d;
+  vertical-align: sub;
+}
+
+.blog_footer p:first-of-type {
+  margin-right: 20px;
+}
+
+.blog_footer p:first-of-type span {
+  color: #f55f8d;
+}
+
 /* Keyframes */
 @keyframes upToDown {
   49% {
